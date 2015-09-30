@@ -1,0 +1,9 @@
+F:\Visual Studio 2015\lessonVariables\Variables\Variables\bin\Debug\Variables.exe.config
+F:\Visual Studio 2015\lessonVariables\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\lessonVariables\Variables\Variables\obj\Debug\Variables.Form1.resources
+F:\Visual Studio 2015\lessonVariables\Variables\Variables\obj\Debug\Variables.Properties.Resources.resources
+F:\Visual Studio 2015\lessonVariables\Variables\Variables\obj\Debug\Variables.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\lessonVariables\Variables\Variables\bin\Debug\Variables.exe
+F:\Visual Studio 2015\lessonVariables\Variables\Variables\bin\Debug\Variables.pdb
+F:\Visual Studio 2015\lessonVariables\Variables\Variables\obj\Debug\Variables.exe
+F:\Visual Studio 2015\lessonVariables\Variables\Variables\obj\Debug\Variables.pdb
