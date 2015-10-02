@@ -7,3 +7,12 @@ F:\Visual Studio 2015\lessonVariables\Variables\Variables\bin\Debug\Variables.ex
 F:\Visual Studio 2015\lessonVariables\Variables\Variables\bin\Debug\Variables.pdb
 F:\Visual Studio 2015\lessonVariables\Variables\Variables\obj\Debug\Variables.exe
 F:\Visual Studio 2015\lessonVariables\Variables\Variables\obj\Debug\Variables.pdb
+F:\VS2015\lessonVariables\Variables\Variables\bin\Debug\Variables.exe.config
+F:\VS2015\lessonVariables\Variables\Variables\obj\Debug\Variables.exe
+F:\VS2015\lessonVariables\Variables\Variables\obj\Debug\Variables.pdb
+F:\VS2015\lessonVariables\Variables\Variables\bin\Debug\Variables.exe
+F:\VS2015\lessonVariables\Variables\Variables\bin\Debug\Variables.pdb
+F:\VS2015\lessonVariables\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+F:\VS2015\lessonVariables\Variables\Variables\obj\Debug\Variables.Properties.Resources.resources
+F:\VS2015\lessonVariables\Variables\Variables\obj\Debug\Variables.csproj.GenerateResource.Cache
+F:\VS2015\lessonVariables\Variables\Variables\obj\Debug\Variables.FormMain.resources
