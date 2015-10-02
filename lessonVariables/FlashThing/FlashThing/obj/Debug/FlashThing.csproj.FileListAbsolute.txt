@@ -1,0 +1,9 @@
+F:\Visual Studio 2015\lessonVariables\FlashThing\FlashThing\bin\Debug\FlashThing.exe.config
+F:\Visual Studio 2015\lessonVariables\FlashThing\FlashThing\bin\Debug\FlashThing.exe
+F:\Visual Studio 2015\lessonVariables\FlashThing\FlashThing\bin\Debug\FlashThing.pdb
+F:\Visual Studio 2015\lessonVariables\FlashThing\FlashThing\obj\Debug\FlashThing.Form1.resources
+F:\Visual Studio 2015\lessonVariables\FlashThing\FlashThing\obj\Debug\FlashThing.Properties.Resources.resources
+F:\Visual Studio 2015\lessonVariables\FlashThing\FlashThing\obj\Debug\FlashThing.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\lessonVariables\FlashThing\FlashThing\obj\Debug\FlashThing.exe
+F:\Visual Studio 2015\lessonVariables\FlashThing\FlashThing\obj\Debug\FlashThing.pdb
+F:\Visual Studio 2015\lessonVariables\FlashThing\FlashThing\obj\Debug\FlashThing.csprojResolveAssemblyReference.cache
